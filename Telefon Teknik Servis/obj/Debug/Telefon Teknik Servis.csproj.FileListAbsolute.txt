@@ -1,0 +1,38 @@
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.exe.config
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.exe
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.pdb
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.csprojResolveAssemblyReference.cache
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Properties.Resources.resources
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.csproj.GenerateResource.cache
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.csproj.CoreCompileInputs.cache
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.exe
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.pdb
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form3.resources
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form4.resources
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form5.resources
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form6.resources
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form2.resources
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form1.resources
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.exe.manifest
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.application
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.exe.manifest
+D:\users\veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.application
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.exe.config
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.exe.manifest
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.application
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.exe
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\bin\Debug\Telefon Teknik Servis.pdb
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.csprojAssemblyReference.cache
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form1.resources
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form2.resources
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form3.resources
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form4.resources
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form5.resources
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Form6.resources
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon_Teknik_Servis.Properties.Resources.resources
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.csproj.GenerateResource.cache
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.csproj.CoreCompileInputs.cache
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.exe.manifest
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.application
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.exe
+G:\Users\Veysel\source\repos\Telefon Teknik Servis\Telefon Teknik Servis\obj\Debug\Telefon Teknik Servis.pdb
